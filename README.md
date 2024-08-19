@@ -6,8 +6,8 @@
 
 <h2 align="center">Tools</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/-Bun-000000?style=for-the-badge&logo=bun" alt="bun">
 <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript" alt="typescript">
+<img src="https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno" alt="deno">
+<img src="https://img.shields.io/badge/-Fresh-000000?style=for-the-badge&logo=fresh" alt="fresh">
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss" alt="tailwindcss">
-<img src="https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&logo=svelte" alt="svelte">
 </p>
