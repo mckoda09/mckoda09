@@ -11,3 +11,4 @@
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss" alt="tailwindcss">
 <img src="https://img.shields.io/badge/-Zed-000000?style=for-the-badge&logo=zedindustries" alt="zedindustries">
 </p>
+<h3 align="center">C10fps was here</h3>
