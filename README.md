@@ -1,13 +1,21 @@
-<h2 align="center">Friends</h2>
-<p align="center">
-<a href="https://github.com/tapnisu"><img src="https://img.shields.io/badge/-tapnisu-000000?style=for-the-badge" alt="@tapnisu"></a>
-<a href="https://github.com/constant10fps"><img src="https://img.shields.io/badge/-constant0fps-000000?style=for-the-badge" alt="@constant0fps"></a>
-</p>
+# Hello 👋
 
-<h2 align="center">Tools</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript" alt="typescript">
-<img src="https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno" alt="deno">
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss" alt="tailwindcss">
-<img src="https://img.shields.io/badge/-Zed-000000?style=for-the-badge&logo=zedindustries" alt="zedindustries">
-</p>
+I am Aleksii Nikitin, aka mckoda09. Senior TS Developer.
+
+You can find my projects on [my website](https://mckoda09.ru/)
+
+### Tools
+- 📝 [Zed Editor](https://zed.dev) (as primary code editor)
+- 💻 [Hyprland](https://hyprland.org/) on Arch Linux (for my laptop)
+
+### Technologies
+- 🇹 [TypeScript](https://www.typescriptlang.org/) (primary coding language)
+
+- 🇩 [Deno](https://deno.com/)
+  - 🚀 modern, TypeScript-first runtime
+  - 🛢 [KV](https://deno.com/kv) (as database)
+  - 🌐 [Deno Deploy](https://deno.com/deploy) (hosting)
+
+- 🍋 [Fresh](https://fresh.deno.dev) (as web framework)
+- 🌊 [TailwindCSS](https://tailwindcss.com/) (for styling)
+- 🤖 [Grammy](https://grammy.dev) (for Telegram bots)
