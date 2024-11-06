@@ -1,8 +1,7 @@
-# Hello 👋
+# Hi 👋
+I am Aleksii Nikitin, aka mckoda09.
 
-I am Aleksii Nikitin, aka mckoda09. Senior TS Developer.
-
-You can find my projects on [my website](https://mckoda09.ru/)
+My website: [mckoda09.ru](https://mckoda09.ru)
 
 ### Tools
 - 📝 [Zed Editor](https://zed.dev) (as primary code editor)
