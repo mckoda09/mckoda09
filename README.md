@@ -1,6 +1,6 @@
 # Hi! I'm Aleksii Nikitin 👋
 
- My website: [mckoda09.ru](https://mckoda09.ru)
+ My website: [mckoda09.ru](https://mckoda09.ru) (temporarily disabled)
 
 ### My tool set
 - [Astro](https://astro.build) for modern web dev
