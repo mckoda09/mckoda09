@@ -4,7 +4,7 @@
 - [Astro](https://astro.build) for modern web dev
 - [Grammy](https://grammy.dev) for telegram bots
 - [Zed](https://zed.dev) the best code editor imho
-- [Hyprland](https://hyprland.org/) i use arch btw
+- i use [arch](https://archlinux.org) btw
 
 ### Telegram Bots 👾
 - [tmperm-bot](https://github.com/mckoda09/tmperm-bot) is in active use by a **medium-sized enterprise**
