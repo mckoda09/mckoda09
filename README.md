@@ -13,5 +13,4 @@
 
 ### Landings ✨
 - [swiftvpn](https://github.com/mckoda09/swiftvpn) was made for **small-sized enterprise**
-- [mckoda09](https://github.com/mckoda09/me) my website (disabled now 😎)
 - [bioboost](https://github.com/mckoda09/bioboost) is rewrite of not mine shitty page
