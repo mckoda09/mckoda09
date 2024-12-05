@@ -8,6 +8,7 @@
 
 ### Telegram Bots 👾
 - [tmperm-bot](https://github.com/mckoda09/tmperm-bot) is in active use by a **medium-sized enterprise**
+- [hellobot](https://github.com/mckoda09/hellobot) is in use by **large telegram channel admins**
 - [mediane-bot](https://github.com/mckoda09/mediane-bot) is in active use by my class at school
 - [kvantorium-admin-bot](https://github.com/mckoda09/kvantorium-admin-bot) is in use at **Kvantorium**
 
