@@ -1,5 +1,4 @@
 # Hi! I'm Aleksii Nikitin 👋
 
-- [Astro](https://astro.build) for modern web dev
-- [Grammy](https://grammy.dev) for telegram bots
-- [Zed](https://zed.dev) the best code editor imho (but i use VSC on windows 💀)
+- Building modern web with [Astro](https://astro.build)
+- [Grammy](https://grammy.dev) for Telegram bots
